@@ -1,0 +1,17 @@
+pycryptodome
+cryptography
+bcrypt
+pynacl
+bitstring
+rsa
+simple-crypt
+steghide-python
+featherduster
+RsaCtfTool
+CryptoCrack
+cryptosploit
+ssepy
+pwntools
+scapy
+pyopenssl
+m2crypto
