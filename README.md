@@ -5,5 +5,7 @@ step for simple install :)
 
 step 1:pip install pycryptodome cryptography bcrypt pynacl bitstring rsa simple-crypt steghide-python featherduster RsaCtfTool CryptoCrack cryptosploit ssepy pwntools scapy pyopenssl m2crypto --break-system-packages
 or 
+
+
 step 2: pip install -r requirements.txt --break-system-packages
 then now work all tools 
